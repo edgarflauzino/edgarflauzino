@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 
 ## Data Analysis Projects
 
-[Travel Insurance Marketing](https://github.com/edgarflauzino/travel_insurance_analysis): Data analysis for a travel insurance company to increase marketing efficiency.
+* [Travel Insurance Marketing](https://github.com/edgarflauzino/travel_insurance_analysis): Data analysis for a travel insurance company to increase marketing efficiency.
 
-[Titanic Survival Prediction](URL): Portfolio project to predict the probability of a Titanic passenger to survive the shipwreck using logistic regression.
+* [Titanic Survival Prediction](URL): Portfolio project to predict the probability of a Titanic passenger to survive the shipwreck using logistic regression.
 
 ## React Projects
 
-[Spotify Playlist Creator](https://github.com/edgarflauzino/spotify-playlist-creator): A web app playlist builder for your spotify account.
+* [Spotify Playlist Creator](https://github.com/edgarflauzino/spotify-playlist-creator): A web app playlist builder for your spotify account.
 
-[Appointment Planner](https://github.com/edgarflauzino/appointment-planner): Appointment planner web app built with React, part of Codecademys' Full Stack Engineer path.
+* [Appointment Planner](https://github.com/edgarflauzino/appointment-planner): Appointment planner web app built with React, part of Codecademys' Full Stack Engineer path.
 
-[Mini Reddit App](https://github.com/edgarflauzino/reddit-app): A light version of Reddit (under construction).
+* [Mini Reddit App](https://github.com/edgarflauzino/reddit-app): A light version of Reddit (under construction).
 
 ## Node Projects
 
-[FindMyHat mini-game](https://github.com/edgarflauzino/find-my-hat-game): Part of Codecademy's Node.js lessons. Simple and fun to play!
+* [FindMyHat mini-game](https://github.com/edgarflauzino/find-my-hat-game): Part of Codecademy's Node.js lessons. Simple and fun to play!
