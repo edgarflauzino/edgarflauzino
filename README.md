@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 * [Mini Reddit App](https://github.com/edgarflauzino/reddit-app): A light version of Reddit (under construction).
 
-## Node Projects
+## Node.js Projects
 
 * [FindMyHat mini-game](https://github.com/edgarflauzino/find-my-hat-game): Part of Codecademy's Node.js lessons. Simple and fun to play!
