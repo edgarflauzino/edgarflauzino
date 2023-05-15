@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 * [Travel Insurance Marketing](https://github.com/edgarflauzino/travel_insurance_analysis): Data analysis for a travel insurance company to increase marketing efficiency.
 
-* [Titanic Survival Prediction](URL): Portfolio project to predict the probability of a Titanic passenger to survive the shipwreck using logistic regression.
+* [Titanic Survival Prediction](URL): Portfolio project to predict the probability of a Titanic passenger to survive the shipwreck.
 
 ## React Projects
 
