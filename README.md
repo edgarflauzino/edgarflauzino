@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 ## Node.js
 
-* [FindMyHat mini-game](https://github.com/edgarflauzino/find-my-hat-game): Part of Codecademy's Node.js lessons. Simple and fun to play!
+* [FindMyHat mini-game](https://github.com/edgarflauzino/find-my-hat-game): Part of Codecademy's Node.js lessons.
