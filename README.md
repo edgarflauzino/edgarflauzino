@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React and Node.js
+- :dependabot: My HackerRank: [/edgarflauzino](https://www.hackerrank.com/edgarflauzino)
+- 😄 Pronouns: he/him/his
+
 <!--
 **edgarflauzino/edgarflauzino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,13 +21,13 @@ Here are some ideas to get you started:
 
 # My Projects
 
-## Data Analysis Projects
+## Data Analysis
 
 * [Travel Insurance Marketing](https://github.com/edgarflauzino/travel_insurance_analysis): Data analysis for a travel insurance company to increase marketing efficiency.
 
 * [Titanic Survival Prediction](URL): Portfolio project to predict the probability of a Titanic passenger to survive the shipwreck.
 
-## React Projects
+## React
 
 * [Spotify Playlist Creator](https://github.com/edgarflauzino/spotify-playlist-creator): A web app playlist builder for your spotify account.
 
@@ -31,6 +35,6 @@ Here are some ideas to get you started:
 
 * [Mini Reddit App](https://github.com/edgarflauzino/reddit-app): A light version of Reddit (under construction).
 
-## Node.js Projects
+## Node.js
 
 * [FindMyHat mini-game](https://github.com/edgarflauzino/find-my-hat-game): Part of Codecademy's Node.js lessons. Simple and fun to play!
