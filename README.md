@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 ## Data Analysis
 
-* [Case Study: Renewable Power Plants in Brazil for Distributed Generation](https://github.com/edgarflauzino/selecao-usinas-gd) - Case study to analyze a database containing renewable energy projects in Brazil and study the effectiveness of a given objective (Portuguese).
-
 * [Travel Insurance Marketing](https://github.com/edgarflauzino/travel_insurance_analysis) - Data analysis for a travel insurance company to increase marketing efficiency.
 
 * [Titanic Survival Prediction](URL) - Portfolio project to predict the probability of a Titanic passenger to survive the shipwreck.
