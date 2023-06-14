@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 * [Titanic Survival Prediction](URL) - Portfolio project to predict the probability of a Titanic passenger to survive the shipwreck.
 
+* [PT - Seleção de usinas para geração distribuída](https://github.com/edgarflauzino/selecao-usinas-gd) - Case para vaga de analista de dados em uma empresa de energia.
+
 ## React
 
 * [Spotify Playlist Creator](https://github.com/edgarflauzino/spotify-playlist-creator) - A web app playlist builder for your spotify account.
