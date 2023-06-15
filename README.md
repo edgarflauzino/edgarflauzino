@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Machine Learning Engineerint at [Codecademy](https://www.codecademy.com/paths/machine-learning-engineer/)!
+- 🌱 I’m currently learning Machine Learning Engineering at [Codecademy](https://www.codecademy.com/paths/machine-learning-engineer/)!
 - :dependabot: My HackerRank: [/edgarflauzino](https://www.hackerrank.com/edgarflauzino)
 - 😄 Pronouns: he/him/his
 
@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 
 ## Data Analysis
 
-* [Travel Insurance Marketing](https://github.com/edgarflauzino/travel_insurance_analysis) - Data analysis for a travel insurance company to increase marketing efficiency.
-
-* [Titanic Survival Prediction](URL) - Portfolio project to predict the probability of a Titanic passenger to survive the shipwreck.
-
 * [(PT-BR) Seleção de usinas para geração distribuída](https://github.com/edgarflauzino/selecao-usinas-gd) - Case para uma empresa de energia.
+
+* [Travel Insurance Marketing](https://github.com/edgarflauzino/travel_insurance_analysis) - Data analysis for a travel insurance company to increase marketing efficiency.
 
 ## React
 
