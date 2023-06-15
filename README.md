@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React and Node.js
+- 🌱 I’m currently learning Machine Learning Engineerint at [Codecademy](https://www.codecademy.com/paths/machine-learning-engineer/)!
 - :dependabot: My HackerRank: [/edgarflauzino](https://www.hackerrank.com/edgarflauzino)
 - 😄 Pronouns: he/him/his
 
